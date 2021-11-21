@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesDashboard</string>
+    <string name="home">home</string>
+    <string name="favorites">Favorites</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="science_fiction">science fiction</string>
+    <string name="red_notice">Red Notice</string>
+    <string name="action">Action</string>
+    <string name="_11_05_2021">11/05/2021</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">View All</string>
+    <string name="batman">Batman v Superman: Dawn of Justice</string>
+</resources>
